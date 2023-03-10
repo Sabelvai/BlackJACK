@@ -1,0 +1,30 @@
+body {
+    background-color: green;
+}
+ul {
+    margin-top:100px;
+    display: flex;
+    flex-direction: row;
+}
+li {
+    margin-right: 60px;
+    width: 70px;
+    display: block;
+}
+img {
+    height: 130px;
+}
+
+.board {
+    width: 60%;
+    background: green;
+    border: solid 5px brown;
+    border-radius: 251px;
+    padding: 64px;
+    margin: 0 auto;
+}
+
+.allCard {
+    display: flex;
+    flex-direction: row;
+}
